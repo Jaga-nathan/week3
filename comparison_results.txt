@@ -1,0 +1,10 @@
+TF-IDF vs DistilBERT Comparison
+--------------------------------
+TF-IDF Accuracy: 1.0000
+DistilBERT Accuracy: 1.0000
+TF-IDF Macro F1: 1.0000
+DistilBERT Macro F1: 1.0000
+TF-IDF Training Time: 0.05 seconds
+DistilBERT Training Time: 137.29 seconds
+TF-IDF Inference Time: 0.0000 seconds
+DistilBERT Inference Time: 6.0378 seconds
